@@ -14,5 +14,5 @@ EXPORT DATA OPTIONS(
 )
 AS
 SELECT fact, created_at, updated_at
-FROM `projeto.dataset.cat_facts`
+FROM `case.dataset.cat_facts`
 WHERE RAND() < 0.10;
