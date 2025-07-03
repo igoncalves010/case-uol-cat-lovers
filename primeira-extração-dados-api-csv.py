@@ -1,5 +1,3 @@
-#Questao 1 - extração de dados da API e salvar os dados no csv
-
 # Questão 1 - Extração de dados da API e salvar os dados no CSV
 
 import requests
